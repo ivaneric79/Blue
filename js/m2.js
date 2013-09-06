@@ -1,4 +1,4 @@
- var bluetoothSerial = cordova.require('bluetoothSerial');
+ //var bluetoothSerial = cordova.require('bluetoothSerial');
 
  document.addEventListener("deviceready", onDeviceReady, false);
 

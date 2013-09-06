@@ -1,3 +1,5 @@
+ var bluetoothSerial = cordova.require('bluetoothSerial');
+
  document.addEventListener("deviceready", onDeviceReady, false);
 
     // device APIs are available
